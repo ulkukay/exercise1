@@ -1,0 +1,1 @@
+ORD = ["äpple", "päron","apelsin", "vindruvor","banan","mamma"]
